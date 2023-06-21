@@ -40,3 +40,4 @@ Trading the financial markets is all about ***balancing that risk*** with the **
 ### Investing vs trading
 
 * Investing is a ***long-term*** form of financial trading which involves buying and ***holding*** financial assets over a number of months or years.
+<img src = "Weixin Image_20230621221659](https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/e0b3484f-0f3d-47f4-bb5f-24ddd11f04c1" width = 50% height = 50%>
