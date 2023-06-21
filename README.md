@@ -40,4 +40,28 @@ Trading the financial markets is all about ***balancing that risk*** with the **
 ### Investing vs trading
 
 * Investing is a ***long-term*** form of financial trading which involves buying and ***holding*** financial assets over a number of months or years.
-<img src = "Weixin Image_20230621221659](https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/e0b3484f-0f3d-47f4-bb5f-24ddd11f04c1" width = 50% height = 50%>
+<img src = "https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/e0b3484f-0f3d-47f4-bb5f-24ddd11f04c1" width = 75% height = 75%>
+
+* But long-term investing isn't the only way of participating in the financial markets, there's also ***active trading***, sometimes known as ***speculation***.
+* While investors generally focus on the long-term value of assets and attempt to build a portfolio that will perform well in the future, ***active traders*** tend to focus on short-term market movements, with some participants placing hundreds of trades per day.
+
+## What are equities?
+
+### Why do companies offer shares?
+
+#### To raise money
+
+* By allowing investors to buy part of the company, the management are able to ***raise capital*** to put back into the business.
+* If the funds are used wisely and the company becomes more profitable as a result, the value of the share price, and therefore the business, should ***rise***.
+* The company and its shareholder are heavily ***reliant*** on each other: The company needs shareholders to ***raise funds***, and the shareholders hope the company will use their investment to ***grow the business*** - so they can make a ***profit***.
+
+### Why do share prices move?
+
+* The amount of share fluctuates is known as its ***volatility***.
+* Whether a share price moves up or down is based fundamentally on the ***laws of supply*** and ***demand***.
+* If more people want to buy a share then sell it, the price will ***rise*** because the share is ***more sought-after*** (the 'demand' outstrips the 'supply').
+* Conversely, if supply is greater than demand, then the price will fall.
+
+Supply and demand can be influenced by many factors, but the main two are:
+
+* Earnings:
