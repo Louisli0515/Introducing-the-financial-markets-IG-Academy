@@ -64,4 +64,5 @@ Trading the financial markets is all about ***balancing that risk*** with the **
 
 Supply and demand can be influenced by many factors, but the main two are:
 
-* Earnings: If the earnings are ***better than*** expected, the share price generally ***rises***. If the earnings ***disappoint***, the share price is likely to ***fall***.
+* ***Earnings***: If the earnings are ***better than*** expected, the share price generally ***rises***. If the earnings ***disappoint***, the share price is likely to ***fall***. The firm's share price can be particularly ***volatile*** immediately before and after the announcement, especially if the figures are significantly ***better*** or ***worse*** than anticipated.
+* ***Sentiment***: Share prices tend to react ***strongly*** to expectations of the company's future performance, which are built on any number of factors such as upcoming industry legislation, public faith in the company's management team or the general health of the economy.
