@@ -64,4 +64,4 @@ Trading the financial markets is all about ***balancing that risk*** with the **
 
 Supply and demand can be influenced by many factors, but the main two are:
 
-* Earnings:
+* Earnings: If the earnings are ***better than*** expected, the share price generally ***rises***. If the earnings ***disappoint***, the share price is likely to ***fall***.
