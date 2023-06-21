@@ -1,6 +1,8 @@
 # Introducing-the-financial-markets-IG-Academy
 IG Academy -- Introducing the financial markets
 
+https://www.ig.com/uk/learn-to-trade/ig-academy/introducing-the-financial-markets
+
 ## What is financial trading?
 
 ### Introduction
@@ -29,3 +31,12 @@ However, most of the time financial traders don't need assets at all. They are s
 
 ## Why trade?
 
+Imagine one day you decided to put all your savings under the mattress for safekeeping. In real terms, the money would be worth ***less than*** when you put it there, because the ***cost of living*** is likely to have ***risen*** in the interim.
+
+Instead of lying dormant, you can used that money to buy financial assets such as shares or commodities and have a greater potential growth as the value of those shares or commodities could go up.
+
+Trading the financial markets is all about ***balancing that risk*** with the ***potential award***, and picking assets likely to move in your favour.
+
+### Investing vs trading
+
+* Investing is a ***long-term*** form of financial trading which involves buying and ***holding*** financial assets over a number of months or years.
