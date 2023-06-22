@@ -168,3 +168,4 @@ In the US, there are several major indices, all based on slightly different ***s
 
 ### How do you trade forex?
 
+* Forex is an over-the-counter (OTC) market. Currencies are exchanged directly between two parties rather than through an exchange.
