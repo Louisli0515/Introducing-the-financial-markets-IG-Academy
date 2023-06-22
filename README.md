@@ -89,3 +89,17 @@ There are three main types of broker:
 * Shares are only traded during the opening hours of their designated stock exchange.
 
 <img src = https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/2313ecbf-c6dd-4890-8ad1-00e7208e6400 width = 50% height = 50%>
+
+### How do shares become listed on an exchange?
+
+* Companies are either ***privately owned*** or ***public***.
+* A private company isn't ***listed*** on a major stock exchange, so you would usually have to contact the owners directly to buy shares. They are under ***no obligation*** to sell them.
+* If the owners want to 'go public' to raise some capital or boost the company's reputation, they must carry out an initial public offering, or ***IPO***.
+* Publically-listed companies often have many ***more shareholders*** than private ones, and are subject to ***much tighter*** regulations.
+
+### Dividends
+
+* A key advantage to investing in shares is the potential for dividends.
+* A dividend is an amount of money paid to shareholders, representing a ***portion of*** the company's profits.
+* Dividends can ***compensate*** for a share price that isn't moving much, giving shareholders ***an income*** instead.
+* Companies that are ***expanding rapidly*** usually don't offer dividends, choosing instead to ***reinvest*** all their profits to ***sustain growth***.
