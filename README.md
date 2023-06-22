@@ -122,3 +122,49 @@ In the US, there are several major indices, all based on slightly different ***s
 * ***S&P 500***: More diverse than DJIA, the S&P 500 is based on the value of 500 of the largest US shares listed on either NYSE or NASDAQ. Today represents around 70% of the total value the US stock market.
 * ***NASDAQ-100***: Based on 100 of the largest non-financial companies listed on the NASDAQ exchange in New York City. It represents firms across a number sections, but in particular ***computing, telecommunications*** and ***biotechnology***.
 
+## Trading stock indices
+
+* Most major indices are either calculated using a ***capitalisation-weighted*** or a ***price-wweighted*** system.
+
+### Capitalisation-weighted system
+
+* This system takes the ***size*** of each company into account when calculating the value of the index as a whole. So the more a particular company is worth, the more its share price will affect the index.
+* You can tell how much a particular company is worth by ***multiplying*** its share price by the ***number of shares issued***. This is called its ***market capitalisation***.
+
+### Price-weighted system
+
+* This method is based on the ***actual share price*** of the companies in the index, rather than their overall size.
+* The ***higher*** the share price, the ***more influence*** that company has on the value of the index.
+
+### How do you trade stock indices?
+
+* You cannot buy or sell them directly, there's no asset to own and nothing to exchange. Therefore, to trade on the price of an index, you need to choose a product that ***mirrors*** its performance.
+
+#### Index Fund
+
+* A specialised investment fund that attempts to ***replicate*** the movements of a particular stock index.
+
+#### Exchange-traded fund (ETF)
+
+* A distincty type of index fund that can be traded like a stock on an exchange.
+
+#### Derivatives
+
+* Financial products that derive their price from the performance of an underlying instrument. E.g. futures, options, digital 100s, spread bets or contracts for difference (CFDs).
+
+## What is forex?
+
+* Forex, also known as foreign exchange is the largest financial market in the world. On average over $5 trillion worth of transactions take place every day.
+* That's around 100 times more than the New York Stock Exchange (NYSE) - the world's biggest stock exchange.
+
+### Who trades forex?
+
+* By far the most signifanct players in the forex market are the major international banks. Between, them, Citigroup, Deutsche Bank, Barclays, JPMorgan and UBS account for around 50% of global forex trade.
+
+### Why do people trade forex?
+
+* ***Speculation***: Simply to make money. With major financial institutions always looking to profit from small changes in forex prices, many large trades can occur throughout the day. This activity means currency rates are some of the ***most consistently volatile*** financial markets in the world - which in turn provides more opportunity for speculators to make money.
+* ***Purchasing goods or services in another currency***: Everyy time a transaction is made between two entities in different regions, a foreign exchange transaction needs to take place to pay for the goods or services exchanged.
+
+### How do you trade forex?
+
