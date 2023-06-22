@@ -103,3 +103,22 @@ There are three main types of broker:
 * A dividend is an amount of money paid to shareholders, representing a ***portion of*** the company's profits.
 * Dividends can ***compensate*** for a share price that isn't moving much, giving shareholders ***an income*** instead.
 * Companies that are ***expanding rapidly*** usually don't offer dividends, choosing instead to ***reinvest*** all their profits to ***sustain growth***.
+
+## What are stock indices?
+
+* A stock index is a ***measurement*** of value of a ***certain section*** of the stock market.
+* This ***certain section*** of the stock market can be: an ***exchange***(NASDAQ), a ***region***(such as Europe or Asia) or a ***sector***(energy, electronics, etc)
+
+### Why are they important?
+
+* Stock indices give traders and investors an ***indication*** of how an exchange, region or sector is performing.
+* E.g. the ASX 200, tracks the performance of 200 of the largest companies in Australia. A rising ASX 200 tells investors that, generally, the state of the Australian stock market is ***improving***. If the Australian stock market is on the up, then more often than not, the entire Aussie economy tends to be ***doing well***.
+
+### What are the major stock indices?
+
+In the US, there are several major indices, all based on slightly different ***sections*** of the market. The three main US indices are: 
+
+* ***Dow Jones Industrial Average***: One of the oldest and most quoted indices, the Dow Jones Industrial Average represents 30 of the most influential companies in the US.
+* ***S&P 500***: More diverse than DJIA, the S&P 500 is based on the value of 500 of the largest US shares listed on either NYSE or NASDAQ. Today represents around 70% of the total value the US stock market.
+* ***NASDAQ-100***: Based on 100 of the largest non-financial companies listed on the NASDAQ exchange in New York City. It represents firms across a number sections, but in particular ***computing, telecommunications*** and ***biotechnology***.
+
