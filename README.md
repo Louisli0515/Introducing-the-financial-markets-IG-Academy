@@ -66,3 +66,24 @@ Supply and demand can be influenced by many factors, but the main two are:
 
 * ***Earnings***: If the earnings are ***better than*** expected, the share price generally ***rises***. If the earnings ***disappoint***, the share price is likely to ***fall***. The firm's share price can be particularly ***volatile*** immediately before and after the announcement, especially if the figures are significantly ***better*** or ***worse*** than anticipated.
 * ***Sentiment***: Share prices tend to react ***strongly*** to expectations of the company's future performance, which are built on any number of factors such as upcoming industry legislation, public faith in the company's management team or the general health of the economy.
+
+## Trading shares
+
+### How are shares traded?
+
+* Major shares are traded on the stock market. E.g. The marjority of UK shares are traded on the London Stock Exchange (LSE), while most US shares can be found on New York Stock Exchange (NYSE) or NASDAQ.
+
+### What is a stockbroker?
+
+* The role of the stockbroker is to ***buy and sell*** stocks on their clients' behalf.
+* Nowadays, this process is almost always conducted ***online***.
+
+There are three main types of broker:
+
+* ***Full-service***: ***Create*** and ***execute*** a strategy based on the investment goals of the client - trading on their behalf. (***High commission***)
+* ***Advisory***: Provide ***investment advice*** and ***recommend*** specific trades, but leave the final decision to the client. (***Medium commission***)
+* ***Execution-only***: Simply carry out the client's trading instructions, usually via an online platform. ***No advice given***. (***Low commission***)
+
+### Trading times
+
+* Shares are only traded during the opening hours of their designated stock exchange.
