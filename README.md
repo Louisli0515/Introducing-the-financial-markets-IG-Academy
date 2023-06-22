@@ -87,3 +87,5 @@ There are three main types of broker:
 ### Trading times
 
 * Shares are only traded during the opening hours of their designated stock exchange.
+
+<img src = https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/2313ecbf-c6dd-4890-8ad1-00e7208e6400 width = 50% height = 50%>
