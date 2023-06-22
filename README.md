@@ -169,3 +169,14 @@ In the US, there are several major indices, all based on slightly different ***s
 ### How do you trade forex?
 
 * Forex is an over-the-counter (OTC) market. Currencies are exchanged directly between two parties rather than through an exchange.
+
+<img src = "https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/dcbe88cb-9064-4279-9bfc-73a78151f30a" width = 50% height = 50%>
+
+* In partice, that means you can trade most forex pairs from around 21:00 or 22:00 (UK time) on Sunday to 21:00 or 22:00 (UK time) on Friday every week.
+
+### How does a forex trade work?
+
+* Forex prices are always quoted in ***pairs*** such as AUD/EUR. This is because if you want to purchase Australian dollars you need to buy them with euros.
+* When trading forex you are ***simultaneously BUYING*** on currency while ***SELLING*** another.
+* The first currency in every forex pair is called the ***base*** or ***primary*** currency. The second currency is known as the ***quote*** or ***counter*** currency.
+* You would ***buy*** a pair if you think the base currency will strengthen against the quote currency, this is known as going ***long***. Or you could ***sell*** the pair if you believe the base currency will weaken, this is going ***short***.
