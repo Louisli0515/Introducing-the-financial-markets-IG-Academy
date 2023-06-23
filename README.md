@@ -88,7 +88,7 @@ There are three main types of broker:
 
 * Shares are only traded during the opening hours of their designated stock exchange.
 
-<img src = https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/2313ecbf-c6dd-4890-8ad1-00e7208e6400 width = 50% height = 50%>
+<img src = https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/2313ecbf-c6dd-4890-8ad1-00e7208e6400 width = 75% height = 75%>
 
 ### How do shares become listed on an exchange?
 
@@ -170,7 +170,7 @@ In the US, there are several major indices, all based on slightly different ***s
 
 * Forex is an over-the-counter (OTC) market. Currencies are exchanged directly between two parties rather than through an exchange.
 
-<img src = "https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/dcbe88cb-9064-4279-9bfc-73a78151f30a" width = 50% height = 50%>
+<img src = "https://github.com/Louisli0515/Introducing-the-financial-markets-IG-Academy/assets/128298224/dcbe88cb-9064-4279-9bfc-73a78151f30a" width = 75% height = 75%>
 
 * In partice, that means you can trade most forex pairs from around 21:00 or 22:00 (UK time) on Sunday to 21:00 or 22:00 (UK time) on Friday every week.
 
