@@ -180,3 +180,67 @@ In the US, there are several major indices, all based on slightly different ***s
 * When trading forex you are ***simultaneously BUYING*** on currency while ***SELLING*** another.
 * The first currency in every forex pair is called the ***base*** or ***primary*** currency. The second currency is known as the ***quote*** or ***counter*** currency.
 * You would ***buy*** a pair if you think the base currency will strengthen against the quote currency, this is known as going ***long***. Or you could ***sell*** the pair if you believe the base currency will weaken, this is going ***short***.
+
+## Trading forex
+
+### What is a 'pip'?
+
+* Unlike share price movements, which are measured in recognisable units of currency such as pence or cents, forex changes are measured in very samll units called ***pips***.
+* For example, if the EUR/USD price moves from 1.20160 to 1.20170, that 0.0001 USD rise in value represents ***one pip***.
+* For most major currency pairs, a pip represents a ***one-digit*** move in the ***fourth*** decimal place.
+* One important ***exception*** to this is where the ***yen*** is the counter currency. Here, the ***second*** decimal place is the one to watch.
+* Any extra decimal places shown in the price are known as ***fractional pips*** or ***pipettes***.
+
+### What is a 'lot'?
+
+* Each one-pip movement in a forex price is only worth a tiny amouont. So, to take advantage of these small changes in value, forex is traditionally traded in large batches called ***lots***.
+* A standard lot is 100,000 units of currency.
+* Small investors generally don't have access to such large amounts of money, so many forex brokers allow clients to trade on ***leverage***.
+* Leverage essentially means you can open a large market position with a relatively small deposit - called ***margin***.
+
+### Major pairs
+
+The majority of forex trades take place on a few select currency pairs called the ***majors***. Usually are:
+* EUR/USD
+* USD/JPY
+* GBP/USD
+* USD/CHF(Swiss franc)
+* USD/CAD
+* AUD/USD
+
+### Minor and exotic pairs
+
+* Pairs which are traded less frequently are known as ***minor*** currency pairs.
+* Also seem them called ***cross-currency*** pairs or simply ***crosses***, particularly if the US dollar isn't involved. (The most popular minor pairs tend to contain EUR, GBP and JPY.)
+* Some forex brokers may also refer to ***exotic*** or ***emerging*** pairs.
+* You may come across forex classes which are based on a region, such as ***Australasian*** pairs or ***Scandinavian*** pairs. 
+
+### What drives the forex markets?
+
+* In general terms, the ***stronger*** the economy of a country, the ***stronger*** its currency will be compared to other currencies.
+
+Therefore, the factors that affect a country's economy tend to have the ***greatest*** influence on a currency's price. These include:
+
+* Interest rates
+* Inflation rates
+* Government policy
+* Demand for imports and exports
+* Economic statistics such as a county's growth figures, unemployment levels and manufacturing data
+
+## What are commodities?
+
+* Commodities are physical assets. They are ***raw materials*** mined, farmed or extracted from the earth. Examples include: Gold, Oil, Wheat and Cattle.
+* To be officially ***tradable***, a commodity must be entirely ***interchangeable*** with another commodity of the same type, no matter where it was produced, mined or farmed.
+* Economists call this being ***fungible*** and it means large quantities of commodities can be traded relatively quickly and easily on an exchange. This is because every trader can be confident they are buying/selling equivalent assets without needing to inspect them, or find out where or how they are produced.
+
+### Types of commodity
+
+Commodities are often placed into two groups:
+
+* ***Soft commodities***: These are agricultural commodities, farmed rather than mined or extracted. Softs tend to be very ***volatile*** in the ***short term***, as they are susceptible to seasonal growing cycles, weather and spoilage which can suddenly and dramatically affect prices.
+* ***Hard commodities***: These are generally mined from the ground, or taken from other natural resources. They are typically easier to handle and transport than softs, and are more easily integrated into the industrial process.
+
+Commodities can also be classified according to their ecological sector:
+* Energy (oil and gas)
+* Metal (gold, silver, copper, lead, etc)
+* Agriculture (wheat, coffee, livestock, etc)
