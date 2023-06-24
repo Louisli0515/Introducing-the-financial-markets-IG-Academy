@@ -244,3 +244,20 @@ Commodities can also be classified according to their ecological sector:
 * Energy (oil and gas)
 * Metal (gold, silver, copper, lead, etc)
 * Agriculture (wheat, coffee, livestock, etc)
+
+### How are they traded?
+
+There are two main ways to trade commodities:
+
+* ***The spot market***: The spot market is where financial assets are sold for cash and exchanged right there and then. So if you need ***immediate delivery*** of a commmodity, you would head to the spot market.
+* ***The futures market***: The futures market is a place where buyers and sellers agree to exchange ***a specific quantity of an asset at a fixed date in the future, at a price agreed today***.
+* The price of futures contracts tends to be different from buying or selling an identical amount of that same commodity on the spot market. That's because the seller needs to take into account future risks and charges, such as the cost to hold the commodity and then transport it to the buyer. Hence, futures contracts are valued using ***forward prices***, rather than spot prices.
+
+### Who trades commodity futures?
+
+There are four main types of commodity futures trader.
+
+* ***Producers***: These are companies/individuals that produce or extrract commodities and enter into a futures contract to offset the risk of future price movements.
+* ***Speculators***: These are traders looking solely to ***profit*** on commodity price movements.
+* ***Hedgers***: These are mid or long-term investors who hold commodities in their portfolio to provide protection against downward movements in other securities. Commodities tend to move in an ***opposite direction*** (or at least an unconnected direction) to certain stocks and bonds.
+* ***Brokers***: These are firms or individuals who buy and sell commodity contracts on behalf of their clients.
