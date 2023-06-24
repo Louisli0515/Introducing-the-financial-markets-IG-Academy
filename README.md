@@ -261,3 +261,31 @@ There are four main types of commodity futures trader.
 * ***Speculators***: These are traders looking solely to ***profit*** on commodity price movements.
 * ***Hedgers***: These are mid or long-term investors who hold commodities in their portfolio to provide protection against downward movements in other securities. Commodities tend to move in an ***opposite direction*** (or at least an unconnected direction) to certain stocks and bonds.
 * ***Brokers***: These are firms or individuals who buy and sell commodity contracts on behalf of their clients.
+
+## Trading commodities
+
+### Where are commodities traded?
+
+Commodities are bought and sold on a number of exchanges specialising in a particular type of commodity.
+
+* ***LIFFE***: The London International Financial Futures and Options Exchange is the largest trading floor for commodities in Europe; Speciality: Soft commodities: cococa, wheat, coffee, sugar, corn.
+* ***New York Mercantile Exchange*** (NYMEX): The world's largest physical commodities futures exchange; Speciality: Energy and metals; crude oil, natural gas, heating oil, gold...
+* ***London Metal Exchange***: The world's leading non-ferrrous metals market; Speciality: Metals that do not contain ***iron***: aluminium, copper, tin...
+* ***ICE Futures US***: A leading global soft commodities futures and options exchange; Speciality: Soft commodities: sugar, cotton, cocoa, coffee, orange juice.
+* ***Chicago Board of Trade*** (CBOT): The world's oldest futures and options exchange; Speciality: Grains: corn, sooybean oil...
+
+### Contract size
+
+* Commodity futures are traded in ***contracts***.
+* Small investors don't have access to large amounts of money, so just like when trading forex, you can often trade commodity futures on ***leverage***.
+* Many exchanges and brokers also offer 'mini' contracts, which tend to be between 10% and 50% of the size of a standard contract.
+
+### What drives commodity prices?
+
+* As with all trading, the most important factor that affects commodity prices is the balance between ***supply*** and ***demand***.
+
+Other factors that drive commodity prices include:
+
+* ***The weather***: Agricultural commodities are particularly dependent on the weather as it influences the harvest. A ppor harvest will result in low supply, causing prices to rise.
+* ***Economic and political factors***: Events such as war or political unrest can have a big effect on prices.
+* ***The US dollar***: Commodities are normally priced in US dollars, so their prices generally move ***inversely*** to it. If the price of the dollar falls, it takes more dollars to buy the same amount of commodities - so the price of commodities rises.
